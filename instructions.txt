@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 Here are the instructions
 
 blah blah blah
-=======
+
 Please refer to website for more instructions
->>>>>>> 16fb3841092df6a8d0ab0fd9bcbd9fc807f04195
+
