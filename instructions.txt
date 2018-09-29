@@ -3,12 +3,4 @@ Here are the instructions
 blah blah blah
 
 
-
-
-
-
-Change made in sample branch
-
-
 Add stuff here
-
