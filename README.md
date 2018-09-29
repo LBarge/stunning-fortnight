@@ -1,6 +1,6 @@
-# Hello World 
+# Setting up the Fun Zone 
 
 
 
-- Sample item 1
-- Sample item 2
+- Build code
+- All the branches of the trees.
